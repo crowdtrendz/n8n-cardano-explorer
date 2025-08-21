@@ -13,7 +13,7 @@ export class CardanoExplorer implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'Cardano Explorer',
 		name: 'cardanoExplorer',
-		icon: 'file:cardano.svg',
+		icon: 'file:crowdtrendz.svg',
 		group: ['transform'],
 		version: 1,
 		subtitle: '={{$parameter["operation"]}}',
